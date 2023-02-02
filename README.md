@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guilherme-v-justino
 - 👀 I’m interested in learning new areas and maybe change my current profession as a Veterinarian.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on basic projects and companies.
 - 📫 How to reach me: gvicentejustino@gmail.com
